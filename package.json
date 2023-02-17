@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "^6.5.95",
-    "@nuxtjs/vuetify": "^1.12.3",
+    "@nuxtjs/vuetify": "^14.16.0",
     "@pinia/nuxt": "0.4.6",
     "pinia": "^2.0.28",
     "sass": "^1.49.9",

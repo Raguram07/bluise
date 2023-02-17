@@ -1,22 +1,8 @@
-# dependencies
 node_modules
-
-# logs
-npm-debug.log
-
-# Nuxt build
+*.log*
 .nuxt
-
-# Nuxt generate
+.nitro
+.cache
+.output
+.env
 dist
-
-# Ignore generated service workers
-app/static/sw.js
-app/static/workbox-sw.prod*
-
-# yarn
-yarn-error.log
-
-# Jest Coverage
-coverage
-.DS_Store
